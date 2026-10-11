@@ -34,7 +34,7 @@ A lightweight, custom ISAPI (Internet Server Application Programming Interface) 
 
 ### Prerequisites
 
-* Embarcadero Delphi (compatible version supporting ISAPI/VCL web services).
+* Delphi (compatible version supporting ISAPI/VCL web services).
 
 * Microsoft IIS (Internet Information Services) installed on Windows with ISAPI Extension support enabled.
 
