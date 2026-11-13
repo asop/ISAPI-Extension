@@ -1,10 +1,24 @@
 <p align="center">
-  <img src="https://api.octoperf.com/doc/monitoring/create-connection/microsoft-iis/img/iis-logo.png" alt="ISAPI Web Server Architecture" width="100%" />
+  <img src="https://api.octoperf.com/doc/monitoring/create-connection/microsoft-iis/img/iis-logo.png" alt="ISAPI Web Server Architecture" width="300" />
 </p>
 
 # Delphi ISAPI Extension & Web Server Application
 
 A lightweight, custom ISAPI (Internet Server Application Programming Interface) extension template and handler written in Delphi (Object Pascal). This project provides a robust foundation for building high-performance web applications, handling HTTP requests, inspecting Extension Control Blocks (ECB), and managing server variables on Microsoft Internet Information Services (IIS).
+
+**Previews**
+<p align="center">
+  <img src="Preview/D7_IIS_ISAPI.png" alt="Capture 1" width="500">
+</p>
+<p align="center">
+  <img src="Preview/IIS_ISAPI_D7.png" alt="Capture 2" width="500">
+</p>
+<p align="center">
+  <img src="Preview/IIS_ISAPI_D7b.png" alt="Capture 3" width="500">
+</p>
+<p align="center">
+  <img src="Preview/ISAPI Result.png" alt="Capture 4" width="500">
+</p>
 
 ## ✨ Features
 
